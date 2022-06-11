@@ -2,13 +2,13 @@ import { initializeApp } from 'firebase/app'
 import { getFirestore } from '@firebase/firestore'
 
 const firebaseConfig = {
-  // apiKey: 'AIzaSyABtf-9FYAydvcm4P7PkQTdrY-znAbIlIM',
-  // authDomain: 'tracking-practice.firebaseapp.com',
-  // projectId: 'tracking-practice',
-  // storageBucket: 'tracking-practice.appspot.com',
-  // messagingSenderId: '83588237446',
-  // appId: '1:83588237446:web:381045282afdd3fdc76907',
-  // measurementId: 'G-4E6PDRN0N2',
+  // apiKey: "AIzaSyCvp4HzofurR0UZ5yDPSCrnYFS_MxSeRcE",
+  // authDomain: "tracking-11552.firebaseapp.com",
+  // projectId: "tracking-11552",
+  // storageBucket: "tracking-11552.appspot.com",
+  // messagingSenderId: "1018520016911",
+  // appId: "1:1018520016911:web:13de3a7f974b23555dab7a",
+  // measurementId: "G-ZL7LP8ZE4Y"
 
   apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
   authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
