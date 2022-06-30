@@ -3,4 +3,5 @@ The name of this project comes from the organisation it was made for: Festival T
 Hosted Application (Not showing original client information) : https://ftj.netlify.app/
 
 ## How to use it
-1. Select what mode you would like to use. (Members page -> View , Members-Control page, Events page
+1. Select what mode you would like to use. (Members page -> View , Members-Control page, Events page    
+Still in progress in writing this..
