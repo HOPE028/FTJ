@@ -4,4 +4,4 @@ Hosted Application (Not showing original client information) : https://ftj.netli
 
 ## How to use it
 1. Select what mode you would like to use. (Members page -> View , Members-Control page, Events page    
-Still in progress in writing this..
+*Still in progress in writing this..
